@@ -23,7 +23,7 @@ While using our Service, we may ask you to provide us with certain personally id
 *   Your messages
 *   Cookies and Usage Data
 
-#### Your account information
+### Your account information
 
 You provide us your phone number for authentication purpose as well as to help other people connect to you.  You may also add additional information to identify yourself across our Services such as your name, status, profile picture.
 
@@ -43,11 +43,11 @@ The above information provided by you will be solely used to commmunicate with y
 
 You are in complete control of your messages and can delete your messages at any point of time. Messages once deleted are deleted permanently with no other copies anywhere on the server.
 
-#### Usage Data
+### Usage Data
 
 When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
 
-#### Tracking & Cookies Data
+### Tracking & Cookies Data
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
