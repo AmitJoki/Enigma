@@ -14,8 +14,6 @@ We collect several different types of information for various purposes to provid
 
 ### Types of Data Collected
 
-#### Personal Data
-
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
 *   Your account information
@@ -131,11 +129,11 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Children's Privacy
+## Age Privacy
 
-Our Service does not address anyone under the age of 13 ("Children").
+Our Service does not address anyone under the age of 13.
 
-We do not knowingly collect personally identifiable information from anyone under the age of 13\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+We do not knowingly collect personally identifiable information from anyone under the age of 13 (or such greater age required in your country for you to be authorized to use our Services without parental approval). If you are a parent or guardian and you are aware that your children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## Changes To This Privacy Policy
 
