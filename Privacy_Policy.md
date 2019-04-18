@@ -4,7 +4,7 @@ Effective date: April 18, 2019
 
 Enigma ("us", "we", or "our") operates the Enigma mobile application (the "Service").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Enigma is created with the help of the [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -18,9 +18,30 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-*   First name and last name
-*   Phone number
+*   Your account information
+*   Your contacts
+*   Your messages
 *   Cookies and Usage Data
+
+#### Your account information
+
+You provide us your phone number for authentication purpose as well as to help other people connect to you.  You may also add additional information to identify yourself across our Services such as your name, status, profile picture.
+
+### Your contacts
+
+Similar to how others can connect to you with your provided phone number, you can connect to others for which you provide the contacts in your mobile address book. These information will solely be used to identify prospective connections that you may make through our Services.
+
+### Your messages
+
+Your messages may include, but is not limited to: 
+
+* Text Messages
+* Similies or Emoticons
+* Photos
+
+The above information provided by you will be solely used to commmunicate with your connections. The security of these information is maintained during uploading and storing of the data by encryption provided by the Firebase service.
+
+You are in complete control of your messages and can delete your messages at any point of time. Messages once deleted are deleted permanently with no other copies anywhere on the server.
 
 #### Usage Data
 
@@ -90,19 +111,19 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 #### Google Analytics
 
-    Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
-    You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 #### Firebase
 
-    Firebase is analytics service provided by Google Inc.
+Firebase is analytics service provided by Google Inc.
 
-    You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-    We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245). For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245). For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 ## Links To Other Sites
 
@@ -112,9 +133,9 @@ We have no control over and assume no responsibility for the content, privacy po
 
 ## Children's Privacy
 
-Our Service does not address anyone under the age of 18 ("Children").
+Our Service does not address anyone under the age of 13 ("Children").
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+We do not knowingly collect personally identifiable information from anyone under the age of 13\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## Changes To This Privacy Policy
 
