@@ -20,8 +20,10 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 
 **Beautiful, minimal UI:** The UI is uncluttered and beautiful. Gestures are used to make it pragmatic instead of using additional screen space.
 
-**Less than 10 MB:** All the above features are tucked under a measely 10 MB of APK Size.
+**Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
 
 ## Link to Beta Testing
 
-The app is currently under Open Beta Testing and here's the [**invite**](https://play.google.com/apps/testing/com.amitjoki.enigma) 
+The app is currently under Open Beta Testing and here's the [**invite**](https://play.google.com/apps/testing/com.amitjoki.enigma) All the feedback is appreciated.
+
+Made with <3 by Amit Joki
