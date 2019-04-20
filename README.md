@@ -24,6 +24,8 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 
 ## Link to Beta Testing
 
-The app is currently under Open Beta Testing and here's the [**invite**](https://play.google.com/apps/testing/com.amitjoki.enigma) All the feedback is appreciated.
+The app is currently under Open Beta Testing and here's the [**invite.**](https://play.google.com/apps/testing/com.amitjoki.enigma) All the feedback is appreciated.
+
+----------------------
 
 Made with <3 by Amit Joki
