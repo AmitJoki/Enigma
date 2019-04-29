@@ -22,10 +22,11 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 
 **Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
 
-## Link to Beta Testing
+# Get it at the Play Store
 
-The app is currently under Open Beta Testing and here's the [**invite.**](https://play.google.com/apps/testing/com.amitjoki.enigma) All the feedback is appreciated.
+<a href='https://play.google.com/store/apps/details?id=com.enigma.amitjoki&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
+Google Play and the Google Play logo are trademarks of Google LLC.
 ----------------------
 
 Made with <3 by Amit Joki
