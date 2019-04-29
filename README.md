@@ -2,6 +2,11 @@
 
 Enigma - A minimalist, locked-down one-to-one chat app.
 
+<a href='https://play.google.com/store/apps/details?id=com.enigma.amitjoki&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+<small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
+
+
 ## Features
 
 **Authentication:** Passcode authentication is enabled which is needed to unlock hidden and locked chats. If your device supports fingerprint authentication, then you can use it as well.
@@ -21,10 +26,6 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 **Beautiful, minimal UI:** The UI is uncluttered and beautiful. Gestures are used to make it pragmatic instead of using additional screen space.
 
 **Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
-
-<a href='https://play.google.com/store/apps/details?id=com.enigma.amitjoki&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-
-<small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
 
 ----------------------
 
