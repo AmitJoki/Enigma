@@ -11,6 +11,8 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 
 **Authentication:** Passcode authentication is enabled which is needed to unlock hidden and locked chats. If your device supports fingerprint authentication, then you can use it as well.
 
+**End-To-End Encryption:** Your messages are encrypted right from the moment you send it. This makes sure that only the recipient receives the message and <b>NO ONE ELSE.</b>
+
 **Hide Chats:** You can hide chats to protect against prying eyes. YOU will have to authorize to unhide the chats.
 
 **Lock Chats:** Hidden chats not secure enough? Lock individual chats which only open after YOU have authorized it.
