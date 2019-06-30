@@ -15,6 +15,11 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 * Do `flutter packages get` to get the packages.
 * Use a device or an emulator and run `flutter run`.
 
+## Screenshots
+
+![Screenshot #1](https://i.imgur.com/j6K1iKg.jpg)
+
+
 ## Firebase Rules for Storage and Cloud Firestore
 
 I've used the following basic rule
