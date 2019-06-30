@@ -1,6 +1,19 @@
+
 # Enigma
 
 Enigma - A minimalist, locked-down one-to-one chat app.
+
+# How to use this Repository
+
+* [Flutter - Get Started](https://flutter.dev/docs/get-started/install)
+* Since this is a Firebase dependent project, create a Firebase Project and enable
+  * Firebase Phone Authentication (for authentication)
+  * Cloud Firestore (not Realtime Database)
+  * Firebase Storage (for storing images)
+  * Firebase In-App Messaging (for custom messages)
+* After enabling the above features, download the `google-services.json` and paste it in `android/app` folder.
+* Do `flutter packages get` to get the packages.
+* Use a device or an emulator and run `flutter run`.
 
 <a href='https://play.google.com/store/apps/details?id=com.enigma.amitjoki&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
@@ -28,7 +41,3 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 **Beautiful, minimal UI:** The UI is uncluttered and beautiful. Gestures are used to make it pragmatic instead of using additional screen space.
 
 **Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
-
-----------------------
-
-Made with <3 by Amit Joki
