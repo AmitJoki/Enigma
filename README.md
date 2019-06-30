@@ -3,7 +3,7 @@
 
 Enigma - A minimalist, locked-down one-to-one chat app.
 
-# How to use this Repository
+## Usage
 
 * [Flutter - Get Started](https://flutter.dev/docs/get-started/install)
 * Since this is a Firebase dependent project, create a Firebase Project and enable
