@@ -15,6 +15,16 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 * Do `flutter packages get` to get the packages.
 * Use a device or an emulator and run `flutter run`.
 
+## Firebase Rules for Storage and Cloud Firestore
+
+I've used the following basic rule
+
+```
+allow read, write: if request.auth.uid != null;
+```
+
+but you can be more restrictive if you so wish. For more info - [Get Started on Writing Rules](https://firebase.google.com/docs/firestore/security/get-started#writing_rules)
+
 <a href='https://play.google.com/store/apps/details?id=com.enigma.amitjoki&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 <small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
