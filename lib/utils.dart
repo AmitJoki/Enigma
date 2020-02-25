@@ -16,7 +16,7 @@ import 'package:share/share.dart';
 
 class Enigma {
   static final SentryClient _sentry = SentryClient(
-      dsn: "https://71580a1bd8604541a3507ca542199014@sentry.io/1443724");
+      dsn: "ENTER YOUR SENTRY DSN HERE");
 
   static bool get isInDebugMode {
     // Assume you're in production mode
