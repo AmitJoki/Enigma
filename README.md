@@ -18,6 +18,12 @@ Enigma - A minimalist, locked-down one-to-one chat app.
 * Do `flutter packages get` to get the packages.
 * Use a device or an emulator and run `flutter run`.
 
+## Notifications
+
+1. Enable FCM in your Firebase Console.
+2. Notifications use Cloud Functions. Copy the `functions` directory to the root of your project.
+3. Do `firebase deploy --only functions` You need to have `firebase-cli` installed for this command to execute.
+
 ## Screenshots
 
 ![Screenshot #1](https://i.imgur.com/j6K1iKg.jpg)
