@@ -65,3 +65,7 @@ but you can be more restrictive if you so wish. For more info - [Get Started on 
 **Beautiful, minimal UI:** The UI is uncluttered and beautiful. Gestures are used to make it pragmatic instead of using additional screen space.
 
 **Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
+
+## Acknowledgemment
+
+Passcode Widget: https://github.com/xPutnikx/flutter-passcode
