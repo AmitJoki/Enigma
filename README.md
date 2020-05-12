@@ -66,6 +66,6 @@ but you can be more restrictive if you so wish. For more info - [Get Started on 
 
 **Less than 10 MB:** All the above features are tucked under a measely < 10 MB APK Size.
 
-## Acknowledgemment
+## Acknowledgement
 
-Passcode Widget: https://github.com/xPutnikx/flutter-passcode
+Passcode Widget: https://github.com/xPutnikx/flutter-passcode [Apache 2.0 License](https://github.com/xPutnikx/flutter-passcode/blob/master/LICENSE)
